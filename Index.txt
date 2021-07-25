@@ -3,3 +3,4 @@ Text: Index
 This is a text file created for testing
 This line is added for "Working with Staging Environment. Revision 2"
 This line is added for Page1 branch.
+This line is added for Page2 branch.
